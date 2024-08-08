@@ -22,6 +22,13 @@ Sites to practice Questions:
 	- Core Skills (Algorithms and Data Structures)
 	- Blind 75 or Neetcode 150
 
+interview (mocks / topics) videos and tips:
+- [google advice 1](https://youtu.be/XOtrOSatBoY?si=Li0XL_FhQhZBVJIh)
+- [google advice 2](https://youtu.be/21pmwl0hrME?si=uXoaBvHa-LQSTVwo)
+- [mock interview](https://youtu.be/1qw5ITr3k9E?si=ItTUg7XzVZjtWO4a)
+- [fireship + theprimeagen: funny, but has actual advice in there](https://youtu.be/1t1_a1BZ04o?si=w65lDnqxr_MmLhpf)
+- [neetcode + frying pan: don't talk like this in interviews, it's just his streamer personality ;)](https://youtu.be/46dZH7LDbf8?si=ndBGXwy-cScm4MZS)
+
 ### Prep:
 - Make a general/master CV (EVERYTHING you're good at, all relevant projects)
 - Only submit a cover letter if you actually are interested in the company's work / methods (try to not do the general cover letter method...)
