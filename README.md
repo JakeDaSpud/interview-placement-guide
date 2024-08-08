@@ -7,7 +7,6 @@
 - Explain your code and thought process out loud. Look up "Rubber duck programming"
 - Use a whiteboard to draw out your thoughts and UML / Relational thinking for your problem
 - Know your rules for time complexities / the shortcuts for guessing time complexities (there are a few small things you can know off-rip)
-- 
 
 Data Structures + Algorithms Resources:
 - https://www.interviewcake.com/data-structures-and-algorithms-guide - Roadmap
