@@ -3,6 +3,14 @@
 - Do relevant, personal, and non-tutorial projects that relate to what you're good at / like. Also be able to talk about these, the point (apart from enjoying the project and learning...) is that it can help on your CV selection process, and being able to talk about your interests in the interview is incredible for bonding and vibe-checking.
 - Have your work visible (github, blogs, videos)
 
+### Human Interview (Face-to-face why are you here):
+- Know your strengths and highlight them
+- [Tell me about yourself - Structure](https://youtu.be/es7XtrloDIQ?si=NhnbOkv_cv78lQBT)
+- [Why are you a good fit for the role](https://youtu.be/-HfeTdf2gSw?si=vM_KfGTidmcb8QOn)
+  - 50%: What can you bring to the role?
+  - 30%: What do you want to get out of it?
+  - 20%: What makes you unique?
+
 ### Technical Interview:
 - Explain your code and thought process out loud. Look up "Rubber duck programming"
 - Use a whiteboard to draw out your thoughts and UML / Relational thinking for your problem
